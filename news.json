@@ -1,0 +1,253 @@
+{
+   "status":"ok",
+   "totalResults":36,
+   "articles":[
+      {
+         "source":{
+            "id":"cnn",
+            "name":"CNN"
+         },
+         "author":"Devan Cole, Tierney Sneed",
+         "title":"Judge Chutkan rejects call from Democratic AGs for temporary restraining order blocking DOGE’s access to federal data - CNN",
+         "description":"A federal judge declined on Tuesday to temporarily block Elon Musk and his Department of Government Efficiency from accessing federal data systems at a slew of executive branch agencies.",
+         "url":"https://www.cnn.com/2025/02/18/politics/doge-temporary-restraining-order-chutkan/index.html",
+         "urlToImage":"https://media.cnn.com/api/v1/images/stellar/prod/ap25016807426153-20250217154521812.jpg?c=16x9&q=w_800,c_fill",
+         "publishedAt":"2025-02-19T02:56:00Z",
+         "content":"A federal judge declined on Tuesday to temporarily block Elon Musk and his Department of Government Efficiency from accessing federal data systems at a slew of executive branch agencies.\r\nThe decisio… [+4060 chars]"
+      },
+      {
+         "source":{
+            "id":"None",
+            "name":"Whitehouse.gov"
+         },
+         "author":"None",
+         "title":"Ensuring Accountability for All Agencies - The White House",
+         "description":"By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:",
+         "url":"https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/",
+         "urlToImage":"https://www.whitehouse.gov/wp-content/uploads/2025/01/WH47-Social-Share-Card-Navy-1200x628-1.png",
+         "publishedAt":"2025-02-19T02:30:25Z",
+         "content":"By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:\\xa0\r\n\\xa0 \\xa0 \\xa0Section\\xa01. \\xa0Policy and Purpose. \\xa0The Constitution vests all e… [+8654 chars]"
+      },
+      {
+         "source":{
+            "id":"bleacher-report",
+            "name":"Bleacher Report"
+         },
+         "author":"Scott Polacek",
+         "title":"Tiger Woods, Jupiter Lose TGL Matchup as Fans Applaud Rickie Fowler, NYGC's 1st Win - Bleacher Report",
+         "description":"None",
+         "url":"https://bleacherreport.com/articles/25157984-tiger-woods-jupiter-lose-tgl-matchup-fans-applaud-rickie-fowler-nygcs-1st-win",
+         "urlToImage":"https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2200488525_large_cropped.jpg",
+         "publishedAt":"2025-02-19T02:09:56Z",
+         "content":"New York Golf Club is in the win column.\r\nNYGC notched its first win of the inaugural TGL season with a 10-3 victory over Tiger Woods and Jupiter Links Golf Club on Tuesday at SoFi Center in Palm Bea… [+2496 chars]"
+      },
+      {
+         "source":{
+            "id":"associated-press",
+            "name":"Associated Press"
+         },
+         "author":"ANDREW DALTON",
+         "title":"A$AP Rocky dives into Rihanna’s arms as not guilty verdict is read at felony assault trial - The Associated Press",
+         "description":"Jurors have found rapper A$AP Rocky not guilty of firing a handgun at a former friend on a Hollywood street in 2021. The Los Angeles jury deliberated for about three hours before clearing the hip-hop star on Tuesday of two felony counts of assault with a semi…",
+         "url":"https://apnews.com/article/asap-rocky-rihanna-shooting-verdict-la-trial-203067f305f85afab734f1975723ff04",
+         "urlToImage":"https://dims.apnews.com/dims4/default/7cfac0a/2147483647/strip/true/crop/4308x2423+0+224/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2F40%2F67c266e547592d6cafdf96dd7ef8%2F195e902cca52490885cf540c116fcf9d",
+         "publishedAt":"2025-02-19T02:00:00Z",
+         "content":"LOS ANGELES (AP) A$AP Rocky dove from the defense table into the arms of Rihanna Tuesday as a clerk read the not guilty verdict at his trial on two felony counts of assault with a semiautomatic firea… [+3963 chars]"
+      },
+      {
+         "source":{
+            "id":"the-washington-post",
+            "name":"The Washington Post"
+         },
+         "author":"Anthony Faiola",
+         "title":"Pope Francis, still hospitalized, has pneumonia in both lungs - The Washington Post",
+         "description":"Vatican officials cleared his schedule through the weekend due a “complex” infection plaguing the 88-year-old pontiff.",
+         "url":"https://www.washingtonpost.com/world/2025/02/18/pope-francis-pneumonia-hospitalized/",
+         "urlToImage":"https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VCZI3XFRR4TFNZ243MFKW3CVXA.jpg&w=1440",
+         "publishedAt":"2025-02-19T01:37:38Z",
+         "content":"ROME Pope Francis is suffering from pneumonia in both lungs, the Vatican disclosed late Tuesday, as officials cleared his schedule through the weekend because of a complex infection plaguing the 88-y… [+3571 chars]"
+      },
+      {
+         "source":{
+            "id":"abc-news",
+            "name":"ABC News"
+         },
+         "author":"ABC News",
+         "title":"Dramatic video shows moment Delta plane flipped after landing in Toronto - ABC News",
+         "description":"None",
+         "url":"https://abcnews.go.com/US/dramatic-video-shows-moment-delta-plane-flipped-after/story?id\\\\u003d118921357",
+         "urlToImage":"None",
+         "publishedAt":"2025-02-19T01:09:46Z",
+         "content":"None"
+      },
+      {
+         "source":{
+            "id":"None",
+            "name":"Financial Times"
+         },
+         "author":"Myles McCormick",
+         "title":"Donald Trump considers 25% tariff on imported cars - Financial Times",
+         "description":"US president threatens to intensify trade war with levies on drugs and semiconductors, too",
+         "url":"https://www.ft.com/content/3645b83e-75b8-4eb0-b027-d6ef0fda7b5f",
+         "urlToImage":"https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F66ecb7a3-0736-4667-8660-7b660064dbe0.jpg?source=next-barrier-page",
+         "publishedAt":"2025-02-19T00:56:04Z",
+         "content":"was $29now $25 per 3 months\r\n10% off your first year. The new FT Digital Edition: todays FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App.\r\n<ul><li>… [+140 chars]"
+      },
+      {
+         "source":{
+            "id":"cnn",
+            "name":"CNN"
+         },
+         "author":"Alli Rosenbloom",
+         "title":"BJ Novak jokes that Mindy Kaling loves being famous at her Hollywood Walk of Fame ceremony - CNN",
+         "description":"Mindy Kaling is known for many things, but according to her longtime friend and “Office” costar B.J. Novak, she especially loves being known for, well, being well known.",
+         "url":"https://www.cnn.com/2025/02/18/entertainment/mindy-kaling-bj-novak-hollywood-walk-of-fame/index.html",
+         "urlToImage":"https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2199767959-restricted.jpg?c=16x9&q=w_800,c_fill",
+         "publishedAt":"2025-02-19T00:46:00Z",
+         "content":"Mindy Kaling is known for many things, but according to her longtime friend and Office costar B.J. Novak, she especially loves being known for, well, being well known.\r\nKaling was honored on Tuesday … [+1731 chars]"
+      },
+      {
+         "source":{
+            "id":"None",
+            "name":"CBS Sports"
+         },
+         "author":"",
+         "title":"College football's credibility at stake as Big Ten, SEC aim to tighten stranglehold on playoff access - CBS Sports",
+         "description":"The two power leagues are seeking four automatic bids apiece as talks are scheduled to resume on Wednesday",
+         "url":"https://www.cbssports.com/college-football/news/college-footballs-credibility-at-stake-as-big-ten-sec-aim-to-tighten-stranglehold-on-playoff-access/",
+         "urlToImage":"https://sportshub.cbsistatic.com/i/r/2025/02/19/faecddb6-5fdd-4183-a549-dc640d8b84ea/thumbnail/1200x675/257800bd3156fc4375828823b44ab6f0/college-football-playoff.png",
+         "publishedAt":"2025-02-19T00:31:08Z",
+         "content":"Even before Knute Rockne began breaking out the forward pass as a secret weapon, college football's biggest advantage was its element of surprise. Its appeal is basic and wonderful -- built on the un… [+9614 chars]"
+      },
+      {
+         "source":{
+            "id":"None",
+            "name":"NPR"
+         },
+         "author":"Jonathan Lambert",
+         "title":"National Science Foundation fires roughly 10% of its workforce - NPR",
+         "description":"NSF fired 168 employees, leaving the agency less equipped to fund a wide range of scientific research.",
+         "url":"https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce",
+         "urlToImage":"https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+110/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2Fbc%2F004d85bd425889c6a1902f4fd854%2Fgettyimages-2169813657.jpg",
+         "publishedAt":"2025-02-19T00:11:13Z",
+         "content":"The National Science Foundation fired 168 employees on Tuesday. According to an NSF spokesperson, the firings are to ensure compliance with President Trump's executive order aimed at reducing the fed… [+5132 chars]"
+      },
+      {
+         "source":{
+            "id":"None",
+            "name":"New York Post"
+         },
+         "author":"Associated Press",
+         "title":"KFC slammed over leaving Kentucky for Texas: ‘Disappointed by this decision’ - New York Post ",
+         "description":"Yum Brands said the move is part of its broader plans to designate two brand headquarters in the US — in Plano, Texas, and Irvine, Calif.",
+         "url":"https://nypost.com/2025/02/18/business/kfc-leaving-kentucky-hq-for-texas-sparking-outrage/",
+         "urlToImage":"https://nypost.com/wp-content/uploads/sites/2/2025/02/kfc-kentucky.jpg?quality=75&strip=all&1739903616&w=1024",
+         "publishedAt":"2025-02-18T23:51:00Z",
+         "content":"Kentucky Fried Chicken is being uprooted from its ancestral home state in a shake up announced Tuesday by its parent company that will relocate the chains US corporate office to Texas.\r\nThe KFC chain… [+3338 chars]"
+      },
+      {
+         "source":{
+            "id":"None",
+            "name":"Financial Times"
+         },
+         "author":"Christopher Miller, Steff Chávez",
+         "title":"Donald Trump signals that Ukraine should hold elections as part of Russia peace deal - Financial Times",
+         "description":"Remarks come hours after first high-level talks between Washington and Moscow since its invasion",
+         "url":"https://www.ft.com/content/2506b4ae-52f3-4adb-9dd2-7f07a153316d",
+         "urlToImage":"https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa567f235-6b9e-4786-a532-fa866febacec.jpg?source=next-barrier-page",
+         "publishedAt":"2025-02-18T23:38:59Z",
+         "content":"FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n<ul><li></li>Weekday Print Edition<li></li>FT Weekend<li></li>FT Digital Edition<li>Global n… [+105 chars]"
+      },
+      {
+         "source":{
+            "id":"ars-technica",
+            "name":"Ars Technica"
+         },
+         "author":"Kevin Purdy",
+         "title":"Batman: Arkham games among those losing PhysX powers on newer Nvidia GPUs - Ars Technica",
+         "description":"The 32-bit tech on older games can’t bring snazzy effects forward.",
+         "url":"https://arstechnica.com/gadgets/2025/02/batman-arkham-games-among-those-losing-physx-powers-on-newer-nvidia-gpus/",
+         "urlToImage":"https://cdn.arstechnica.net/wp-content/uploads/2025/02/batman1-1152x648.jpg",
+         "publishedAt":"2025-02-18T23:25:45Z",
+         "content":"None"
+      },
+      {
+         "source":{
+            "id":"None",
+            "name":"Yahoo Entertainment"
+         },
+         "author":"Jasper Ward",
+         "title":"Trump says he has instructed DOJ to terminate all remaining Biden-era US attorneys - Yahoo News Canada",
+         "description":"U.S. President Donald Trump said on Tuesday he has instructed the Justice Department to terminate all remaining Biden-era U.S. attorneys, asserting that the ...",
+         "url":"https://ca.news.yahoo.com/trump-says-instructed-doj-terminate-231957600.html",
+         "urlToImage":"https://media.zenfs.com/en/reuters.com/9466c6674c24eeefa6181e917eba8f4e",
+         "publishedAt":"2025-02-18T23:19:57Z",
+         "content":"By Jasper Ward\r\nWASHINGTON (Reuters) - U.S. President Donald Trump said on Tuesday he has instructed the Justice Department to terminate all remaining Biden-era U.S. attorneys, asserting that the dep… [+1531 chars]"
+      },
+      {
+         "source":{
+            "id":"nbc-news",
+            "name":"NBC News"
+         },
+         "author":"Rob Wile",
+         "title":"Argentine President Milei facing impeachment calls after promoting cryptocurrency whose value has tanked - NBC News",
+         "description":"Argentine President Javier Milei is facing withering criticism, including some calls for impeachment, after promoting a new cryptocurrency on his social media account.",
+         "url":"https://www.nbcnews.com/business/business-news/argentina-president-milei-facing-backlash-over-libra-cryptocurrency-rcna192647",
+         "urlToImage":"https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250225-argentina-president-Javier-Milei-trump-inauguration-ac-1129p-98b5e5.jpg",
+         "publishedAt":"2025-02-18T23:02:52Z",
+         "content":"Argentine President Javier Milei is facing withering criticism, including some calls for impeachment, after promoting a new cryptocurrency on his social media account.\r\nIn a since-deleted post from h… [+4023 chars]"
+      },
+      {
+         "source":{
+            "id":"None",
+            "name":"Frontofficesports.com"
+         },
+         "author":"Michael McCarthy",
+         "title":"ESPN Is Treating 4 Nations Finale Like a Stanley Cup Final - Front Office Sports",
+         "description":"The in-season 4 Nations tournament has made waves and drawn huge viewership for the NHL. ESPN is going all-in ahead of the USA-Canada game.",
+         "url":"http://frontofficesports.com/espn-is-treating-4-nations-finale-like-a-stanley-cup-final/",
+         "urlToImage":"https://frontofficesports.com/wp-content/uploads/2025/02/USATSI_25429599_168416384_lowres.jpg?quality=100",
+         "publishedAt":"2025-02-18T22:54:29Z",
+         "content":"ESPN is leaning into coverage of the NHLs 4 Nations Face-Off like its Game 7 of the Stanley Cup Finals.\r\nHeading into Thursday nights championship game between the USA and Canada, top ESPN hockey tal… [+2482 chars]"
+      },
+      {
+         "source":{
+            "id":"associated-press",
+            "name":"Associated Press"
+         },
+         "author":"MATTHEW LEE, DASHA LITVINOVA",
+         "title":"Russia and US agree to work toward ending Ukraine war in a remarkable diplomatic shift - The Associated Press",
+         "description":"Russia and the U.S. have agreed to start working toward ending the war in Ukraine and improving their diplomatic and economic ties. That came after talks between the top diplomats from Russia and the U.S. They reflected an extraordinary about-face in U.S. for…",
+         "url":"https://apnews.com/article/russia-ukraine-war-riyadh-talks-trump-putin-rubio-0c3beebfef5839e9d509ff58239a6bc5",
+         "urlToImage":"https://dims.apnews.com/dims4/default/11d6442/2147483647/strip/true/crop/5500x3094+0+155/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F9a%2F759061a63aeeb684e045aa14aab2%2F56b9eba19b13467d9322e53bc380af50",
+         "publishedAt":"2025-02-18T22:49:00Z",
+         "content":"RIYADH, Saudi Arabia (AP) Russia and the U.S. agreed Tuesday to start working toward ending the war in Ukraine and improving their diplomatic and economic ties, the two countries top diplomats said a… [+7276 chars]"
+      },
+      {
+         "source":{
+            "id":"None",
+            "name":"Hollywood Reporter"
+         },
+         "author":"Winston Cho",
+         "title":"The Future of Television City Will Be Decided in Court as Rick Caruso Challenges Billion-Dollar Makeover - Hollywood Reporter",
+         "description":"The developer's The Grove filed a lawsuit accusing Los Angeles of violating a state environmental law over its handling of the approval of a planned $1 billion expansion of the historic studio complex.",
+         "url":"http://www.hollywoodreporter.com/business/business-news/television-city-rick-caruso-lawsuit-1236140327/",
+         "urlToImage":"https://www.hollywoodreporter.com/wp-content/uploads/2025/02/GettyImages-1244628957.jpg?w=1440&h=810&crop=1",
+         "publishedAt":"2025-02-18T22:48:24Z",
+         "content":"Depending on who you ask, the $1 billion expansion of the historic 25-acre site known as Television City is a welcome addition to the Los Angeles Fairfax Avenue corridor and the larger Hollywood comm… [+5476 chars]"
+      },
+      {
+         "source":{
+            "id":"cnn",
+            "name":"CNN"
+         },
+         "author":"Neha Mukherjee",
+         "title":"West Texas measles outbreak grows to 58 cases, including some people who said they were vaccinated - CNN",
+         "description":"The number of measles cases linked to an outbreak in West Texas has grown to 58, according to the Texas Department of State Health Services.",
+         "url":"https://www.cnn.com/2025/02/18/health/texas-measles-outbreak/index.html",
+         "urlToImage":"https://media.cnn.com/api/v1/images/stellar/prod/2019-03-21t234519z-132303041-rc1c61b11f00-rtrmadp-3-usa-measles.JPG?c=16x9&q=w_800,c_fill",
+         "publishedAt":"2025-02-18T22:23:00Z",
+         "content":"The number of measles cases linked to an outbreak in West Texas has grown to 58, according to the Texas Department of State Health Services.\r\nMost of the cases are centered in Gaines County, which is… [+2889 chars]"
+      }
+   ]
+}
