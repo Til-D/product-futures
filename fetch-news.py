@@ -6,4 +6,4 @@ url = f"https://newsapi.org/v2/top-headlines?country=us&apiKey={API_KEY}"
 response = requests.get(url)  # Send a request to the API
 data = response.json()  # Convert response to JSON format
 
-print(data)  # Print raw API response
+print(data['response'])  # Print raw API response
